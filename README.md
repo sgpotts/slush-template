@@ -1,6 +1,6 @@
 # Slush Longform-template [![Build Status](https://secure.travis-ci.org/sgpotts/slush-longform-template.png?branch=master)](https://travis-ci.org/sgpotts/slush-longform-template) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-longform-template.png)](http://badges.enytc.com/for/npm/slush-longform-template)
 
-> 
+>
 
 
 ## Getting Started
@@ -8,7 +8,7 @@
 Install `slush-longform-template` globally:
 
 ```bash
-$ npm install -g slush-longform-template
+# $ npm install -g slush-longform-template
 ```
 
 ### Usage
@@ -40,7 +40,7 @@ See the [CONTRIBUTING Guidelines](https://github.com/sgpotts/slush-longform-temp
 ## Support
 If you have any problem or suggestion please open an issue [here](https://github.com/sgpotts/slush-longform-template/issues).
 
-## License 
+## License
 
 The MIT License
 
@@ -66,4 +66,3 @@ HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
 WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
-
