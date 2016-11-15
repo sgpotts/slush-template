@@ -18,7 +18,6 @@ function getTask(task) {
     return require('./gulp-tasks/' + task)(gulp, plugins);
 }
 
-gulp.task('testing', getTask('testing'));
 gulp.task('sass', getTask('sass'));
 gulp.task('browserSync', getTask('browserSync'));
 gulp.task('clean:dist', getTask('clean'));
